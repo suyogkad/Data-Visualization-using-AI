@@ -2,33 +2,84 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>AI Data-Viz Uploader</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI DataViz Chat Interface</title>
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-  <h1>Upload CSV for AI Suggestions</h1>
+<body class="bg-gray-900 text-white h-screen flex flex-col">
 
-  {% if error %}
-    <p style="color: red;">{{ error }}</p>
-  {% endif %}
+  <!-- Main Chat Container -->
+  <div class="flex-1 flex flex-col">
 
-  {% if notice %}
-    <p style="font-style: italic; color: #555;">{{ notice }}</p>
-  {% endif %}
+    {% if not suggestion %}
+    <!-- Upload Screen -->
+    <form method="POST" enctype="multipart/form-data" class="flex-1 flex flex-col items-center justify-center">
+      <input id="file-input" name="file" type="file" accept=".csv" class="hidden" onchange="showFileName()" />
 
-  <form method="POST" enctype="multipart/form-data">
-    <input type="file" name="file" accept=".csv" required />
-    <button type="submit">Upload &amp; Get Suggestion</button>
-  </form>
+      <!-- Plus icon button -->
+      <label for="file-input" class="cursor-pointer">
+        <div class="w-24 h-24 bg-gray-800 rounded-full flex items-center justify-center hover:bg-gray-700 transition">
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-12 h-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" />
+          </svg>
+        </div>
+      </label>
 
-  {% if suggestion %}
-    <hr />
-    <h2>AI-Generated Suggestion:</h2>
-    <p>{{ suggestion }}</p>
-  {% endif %}
+      <!-- Selected file name -->
+      <p id="file-name" class="mt-4 text-gray-400">No file chosen</p>
 
-  {% if chart_uri %}
-    <h3>Chart Preview:</h3>
-    <img src="{{ chart_uri }}" alt="Chart preview" />
-  {% endif %}
+      <!-- Instruction text -->
+      <p class="mt-2 text-gray-500">Upload a CSV to get data visualization</p>
+
+      <!-- Proceed button -->
+      <button type="submit" class="mt-6 px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition">
+        Proceed
+      </button>
+    </form>
+    {% else %}
+
+    <!-- Conversation View -->
+    <div class="flex-1 overflow-y-auto p-6 space-y-6">
+      <div class="max-w-2xl mx-auto space-y-4">
+        <!-- User message -->
+        <div class="flex justify-end">
+          <div class="px-5 py-3 bg-blue-600 text-white rounded-xl max-w-prose whitespace-pre-wrap shadow">
+            User asked: "Data Visualization of {{ file_name }}"
+          </div>
+        </div>
+        <!-- Bot response -->
+        <div class="flex justify-start">
+          <div class="px-5 py-3 bg-gray-800 text-gray-100 rounded-xl max-w-prose whitespace-pre-wrap shadow">
+            {{ suggestion }}
+          </div>
+        </div>
+        <!-- Chart Preview -->
+        {% if chart_uri %}
+        <div class="flex justify-center">
+          <a href="{{ chart_uri }}" target="_blank">
+            <img src="{{ chart_uri }}" alt="Chart preview" class="rounded-lg shadow-lg hover:opacity-90 transition" />
+          </a>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+
+    <!-- Generate Again Button -->
+    <div class="p-4 bg-gray-800 border-t border-gray-700 flex justify-center">
+      <a href="{{ url_for('main.index') }}" class="px-6 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition">
+        Generate Again
+      </a>
+    </div>
+    {% endif %}
+
+  </div>
+
+  <script>
+    function showFileName() {
+      const input = document.getElementById('file-input');
+      const name = input.files[0]?.name || 'No file chosen';
+      document.getElementById('file-name').textContent = name;
+    }
+  </script>
 </body>
 </html>

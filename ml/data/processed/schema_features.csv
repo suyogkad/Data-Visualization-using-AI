@@ -1,0 +1,24 @@
+filename,numeric_count,date_count,categorical_count,chart_type
+players_21.csv,62,0,44,scatter plot
+players_20.csv,62,0,44,scatter plot
+players_18.csv,62,0,44,scatter plot
+time-series-19-covid-combined.csv,5,1,2,scatter plot
+players_19.csv,62,0,44,scatter plot
+educational_attainment_supplementary_data.csv,27,0,2,scatter plot
+googleplaystore_user_reviews.csv,2,0,3,scatter plot
+Iris_flower_data.csv,5,0,1,scatter plot
+googleplaystore.csv,1,0,12,bar chart
+school_and_country_table.csv,0,0,2,table
+cwurData.csv,12,0,2,scatter plot
+Pokemon.csv,9,0,3,scatter plot
+timesData.csv,5,0,9,scatter plot
+winequality_data.csv,12,0,1,scatter plot
+shanghaiData.csv,8,0,3,scatter plot
+players_17.csv,62,0,44,scatter plot
+players_16.csv,62,0,44,scatter plot
+kc_house_data.csv,20,1,0,scatter plot
+flights_sample_3m.csv,23,1,8,scatter plot
+players_15.csv,62,0,44,scatter plot
+adult_census_income.csv,6,0,9,scatter plot
+sample_superstore.csv,6,2,13,scatter plot
+WA_Fn-UseC_-Telco-Customer-Churn.csv,3,0,18,scatter plot

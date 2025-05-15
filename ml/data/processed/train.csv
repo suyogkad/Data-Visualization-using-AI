@@ -1,0 +1,819 @@
+filename,numeric_count,date_count,categorical_count,chart_type
+synth_3_2_4.csv,3,2,4,line chart
+synth_5_3_3.csv,5,3,3,scatter plot
+synth_3_0_3.csv,3,0,3,scatter plot
+synth_0_2_3.csv,0,2,3,table
+synth_0_3_0.csv,0,3,0,table
+synth_3_2_4.csv,3,2,4,scatter plot
+synth_4_0_5.csv,4,0,5,scatter plot
+synth_2_0_3.csv,2,0,3,scatter plot
+synth_4_2_4.csv,4,2,4,scatter plot
+synth_4_1_4.csv,4,1,4,histogram
+synth_4_1_2.csv,4,1,2,scatter plot
+synth_0_3_1.csv,0,3,1,table
+synth_4_2_2.csv,4,2,2,scatter plot
+synth_1_3_5.csv,1,3,5,line chart
+synth_2_3_5.csv,2,3,5,scatter plot
+synth_0_1_0.csv,0,1,0,table
+synth_0_3_0.csv,0,3,0,table
+synth_5_0_0.csv,5,0,0,scatter plot
+synth_3_2_2.csv,3,2,2,scatter plot
+players_21.csv,62,0,44,scatter plot
+synth_2_3_0.csv,2,3,0,scatter plot
+synth_4_3_3.csv,4,3,3,scatter plot
+synth_5_0_4.csv,5,0,4,scatter plot
+synth_1_0_0.csv,1,0,0,histogram
+synth_2_3_5.csv,2,3,5,scatter plot
+synth_1_0_3.csv,1,0,3,bar chart
+synth_4_2_3.csv,4,2,3,scatter plot
+synth_5_1_3.csv,5,1,3,scatter plot
+synth_1_1_0.csv,1,1,0,line chart
+synth_1_2_5.csv,1,2,5,line chart
+synth_1_3_0.csv,1,3,0,line chart
+synth_1_2_0.csv,1,2,0,line chart
+synth_4_0_0.csv,4,0,0,scatter plot
+synth_3_2_0.csv,3,2,0,scatter plot
+synth_0_3_3.csv,0,3,3,table
+synth_5_0_4.csv,5,0,4,scatter plot
+synth_2_0_5.csv,2,0,5,scatter plot
+synth_2_1_3.csv,2,1,3,scatter plot
+synth_1_0_1.csv,1,0,1,bar chart
+synth_0_1_0.csv,0,1,0,histogram
+synth_4_1_5.csv,4,1,5,scatter plot
+synth_3_1_2.csv,3,1,2,scatter plot
+synth_4_1_4.csv,4,1,4,scatter plot
+synth_0_0_3.csv,0,0,3,table
+synth_2_0_5.csv,2,0,5,scatter plot
+synth_0_2_5.csv,0,2,5,table
+synth_3_0_3.csv,3,0,3,scatter plot
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_4_3_5.csv,4,3,5,scatter plot
+synth_5_2_1.csv,5,2,1,scatter plot
+synth_3_2_2.csv,3,2,2,scatter plot
+synth_5_1_5.csv,5,1,5,scatter plot
+synth_4_1_4.csv,4,1,4,scatter plot
+synth_0_3_3.csv,0,3,3,table
+synth_2_3_1.csv,2,3,1,scatter plot
+synth_4_0_5.csv,4,0,5,scatter plot
+synth_5_3_0.csv,5,3,0,scatter plot
+synth_5_1_5.csv,5,1,5,scatter plot
+synth_2_0_4.csv,2,0,4,scatter plot
+synth_3_0_5.csv,3,0,5,scatter plot
+synth_2_3_0.csv,2,3,0,scatter plot
+shanghaiData.csv,8,0,3,scatter plot
+synth_0_3_5.csv,0,3,5,scatter plot
+synth_0_1_2.csv,0,1,2,table
+synth_0_2_5.csv,0,2,5,table
+synth_3_0_4.csv,3,0,4,line chart
+synth_3_0_2.csv,3,0,2,scatter plot
+synth_5_1_4.csv,5,1,4,scatter plot
+synth_0_2_4.csv,0,2,4,table
+synth_1_0_4.csv,1,0,4,bar chart
+WA_Fn-UseC_-Telco-Customer-Churn.csv,3,0,18,scatter plot
+synth_5_3_1.csv,5,3,1,scatter plot
+synth_4_1_2.csv,4,1,2,scatter plot
+synth_2_3_1.csv,2,3,1,scatter plot
+synth_3_0_3.csv,3,0,3,scatter plot
+synth_3_2_4.csv,3,2,4,scatter plot
+synth_2_2_4.csv,2,2,4,scatter plot
+synth_4_0_5.csv,4,0,5,scatter plot
+synth_4_1_1.csv,4,1,1,scatter plot
+synth_2_3_4.csv,2,3,4,scatter plot
+synth_4_0_1.csv,4,0,1,scatter plot
+synth_1_1_1.csv,1,1,1,line chart
+synth_4_3_0.csv,4,3,0,scatter plot
+synth_3_0_5.csv,3,0,5,scatter plot
+synth_0_3_5.csv,0,3,5,scatter plot
+synth_3_3_4.csv,3,3,4,scatter plot
+synth_2_2_2.csv,2,2,2,scatter plot
+synth_3_0_2.csv,3,0,2,scatter plot
+synth_4_1_3.csv,4,1,3,scatter plot
+players_16.csv,62,0,44,scatter plot
+synth_4_1_2.csv,4,1,2,scatter plot
+synth_4_3_0.csv,4,3,0,scatter plot
+synth_4_3_3.csv,4,3,3,scatter plot
+synth_3_0_4.csv,3,0,4,scatter plot
+synth_0_0_0.csv,0,0,0,table
+synth_2_2_2.csv,2,2,2,scatter plot
+synth_5_1_3.csv,5,1,3,scatter plot
+synth_1_1_3.csv,1,1,3,line chart
+synth_5_0_3.csv,5,0,3,scatter plot
+synth_2_1_2.csv,2,1,2,scatter plot
+synth_0_3_2.csv,0,3,2,table
+synth_3_1_3.csv,3,1,3,scatter plot
+synth_2_1_2.csv,2,1,2,scatter plot
+synth_2_2_2.csv,2,2,2,scatter plot
+synth_3_1_2.csv,3,1,2,scatter plot
+synth_3_2_2.csv,3,2,2,scatter plot
+synth_5_3_2.csv,5,3,2,scatter plot
+synth_5_0_1.csv,5,0,1,scatter plot
+synth_5_3_5.csv,5,3,5,scatter plot
+synth_5_2_5.csv,5,2,5,scatter plot
+synth_5_1_1.csv,5,1,1,scatter plot
+synth_2_1_2.csv,2,1,2,histogram
+synth_3_1_0.csv,3,1,0,scatter plot
+synth_5_1_2.csv,5,1,2,scatter plot
+synth_3_1_0.csv,3,1,0,scatter plot
+synth_4_2_3.csv,4,2,3,scatter plot
+synth_4_3_1.csv,4,3,1,scatter plot
+synth_5_1_2.csv,5,1,2,scatter plot
+synth_1_3_0.csv,1,3,0,line chart
+synth_5_3_4.csv,5,3,4,scatter plot
+synth_1_3_0.csv,1,3,0,line chart
+timesData.csv,5,0,9,scatter plot
+synth_4_3_2.csv,4,3,2,scatter plot
+synth_0_2_4.csv,0,2,4,table
+synth_5_1_3.csv,5,1,3,scatter plot
+synth_3_0_0.csv,3,0,0,scatter plot
+synth_1_1_2.csv,1,1,2,line chart
+synth_2_0_2.csv,2,0,2,scatter plot
+synth_5_2_2.csv,5,2,2,scatter plot
+synth_1_3_5.csv,1,3,5,line chart
+synth_3_3_1.csv,3,3,1,scatter plot
+synth_5_3_0.csv,5,3,0,scatter plot
+players_20.csv,62,0,44,scatter plot
+synth_4_3_0.csv,4,3,0,scatter plot
+synth_0_0_3.csv,0,0,3,table
+synth_1_1_1.csv,1,1,1,line chart
+synth_5_2_4.csv,5,2,4,scatter plot
+synth_0_3_5.csv,0,3,5,table
+synth_0_3_2.csv,0,3,2,table
+synth_5_3_2.csv,5,3,2,scatter plot
+synth_4_3_5.csv,4,3,5,scatter plot
+synth_0_2_1.csv,0,2,1,table
+synth_1_0_5.csv,1,0,5,bar chart
+synth_5_3_0.csv,5,3,0,scatter plot
+synth_1_2_2.csv,1,2,2,line chart
+synth_5_3_0.csv,5,3,0,scatter plot
+synth_4_3_2.csv,4,3,2,scatter plot
+synth_4_0_1.csv,4,0,1,scatter plot
+synth_1_2_0.csv,1,2,0,table
+synth_5_0_2.csv,5,0,2,scatter plot
+synth_5_2_4.csv,5,2,4,scatter plot
+synth_1_0_1.csv,1,0,1,bar chart
+synth_2_3_1.csv,2,3,1,scatter plot
+synth_4_3_4.csv,4,3,4,scatter plot
+synth_2_3_4.csv,2,3,4,scatter plot
+synth_2_2_0.csv,2,2,0,bar chart
+synth_0_0_3.csv,0,0,3,table
+synth_1_3_1.csv,1,3,1,line chart
+synth_0_1_5.csv,0,1,5,table
+synth_4_3_2.csv,4,3,2,scatter plot
+synth_5_2_5.csv,5,2,5,scatter plot
+synth_0_3_4.csv,0,3,4,table
+synth_2_0_3.csv,2,0,3,scatter plot
+synth_3_2_5.csv,3,2,5,scatter plot
+synth_1_1_2.csv,1,1,2,line chart
+synth_3_3_4.csv,3,3,4,scatter plot
+synth_0_0_0.csv,0,0,0,table
+synth_0_1_1.csv,0,1,1,table
+synth_4_0_3.csv,4,0,3,scatter plot
+synth_4_3_1.csv,4,3,1,scatter plot
+synth_4_3_0.csv,4,3,0,scatter plot
+synth_4_1_0.csv,4,1,0,scatter plot
+synth_2_3_5.csv,2,3,5,scatter plot
+synth_3_0_2.csv,3,0,2,scatter plot
+synth_4_0_3.csv,4,0,3,scatter plot
+synth_3_3_4.csv,3,3,4,scatter plot
+synth_0_1_1.csv,0,1,1,table
+educational_attainment_supplementary_data.csv,27,0,2,scatter plot
+synth_5_0_5.csv,5,0,5,scatter plot
+synth_3_1_5.csv,3,1,5,scatter plot
+synth_1_1_2.csv,1,1,2,line chart
+synth_0_0_4.csv,0,0,4,table
+synth_3_2_2.csv,3,2,2,histogram
+synth_1_1_5.csv,1,1,5,line chart
+synth_2_0_1.csv,2,0,1,scatter plot
+Iris_flower_data.csv,5,0,1,scatter plot
+synth_1_3_0.csv,1,3,0,line chart
+synth_0_3_4.csv,0,3,4,table
+synth_5_2_2.csv,5,2,2,scatter plot
+synth_4_2_4.csv,4,2,4,scatter plot
+synth_0_3_0.csv,0,3,0,table
+synth_4_0_1.csv,4,0,1,scatter plot
+synth_5_3_0.csv,5,3,0,scatter plot
+synth_5_2_1.csv,5,2,1,histogram
+synth_4_0_0.csv,4,0,0,scatter plot
+synth_4_0_5.csv,4,0,5,scatter plot
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_0_3_3.csv,0,3,3,table
+synth_0_2_4.csv,0,2,4,table
+synth_5_1_4.csv,5,1,4,scatter plot
+synth_1_1_5.csv,1,1,5,line chart
+synth_2_2_1.csv,2,2,1,table
+synth_0_0_5.csv,0,0,5,table
+synth_3_1_4.csv,3,1,4,scatter plot
+synth_5_3_3.csv,5,3,3,scatter plot
+synth_2_1_3.csv,2,1,3,scatter plot
+synth_4_0_5.csv,4,0,5,scatter plot
+synth_0_0_5.csv,0,0,5,table
+synth_1_3_5.csv,1,3,5,bar chart
+synth_5_0_0.csv,5,0,0,scatter plot
+synth_1_3_3.csv,1,3,3,line chart
+synth_1_1_2.csv,1,1,2,line chart
+synth_0_2_4.csv,0,2,4,table
+synth_3_1_2.csv,3,1,2,scatter plot
+synth_1_2_4.csv,1,2,4,line chart
+synth_4_1_4.csv,4,1,4,scatter plot
+synth_3_0_4.csv,3,0,4,scatter plot
+synth_4_0_1.csv,4,0,1,scatter plot
+synth_1_3_1.csv,1,3,1,line chart
+synth_4_2_0.csv,4,2,0,scatter plot
+synth_5_2_4.csv,5,2,4,scatter plot
+synth_4_1_3.csv,4,1,3,scatter plot
+synth_5_3_0.csv,5,3,0,scatter plot
+synth_3_1_1.csv,3,1,1,scatter plot
+synth_4_2_3.csv,4,2,3,scatter plot
+synth_3_2_3.csv,3,2,3,scatter plot
+synth_5_1_5.csv,5,1,5,scatter plot
+synth_4_1_2.csv,4,1,2,scatter plot
+synth_0_2_4.csv,0,2,4,scatter plot
+synth_2_2_0.csv,2,2,0,scatter plot
+synth_1_0_0.csv,1,0,0,histogram
+synth_1_0_2.csv,1,0,2,bar chart
+synth_2_0_2.csv,2,0,2,scatter plot
+synth_5_1_4.csv,5,1,4,scatter plot
+synth_5_1_3.csv,5,1,3,scatter plot
+synth_5_0_2.csv,5,0,2,scatter plot
+synth_4_2_0.csv,4,2,0,scatter plot
+synth_1_2_4.csv,1,2,4,line chart
+synth_5_1_1.csv,5,1,1,scatter plot
+synth_1_2_2.csv,1,2,2,bar chart
+synth_1_1_5.csv,1,1,5,line chart
+synth_3_2_2.csv,3,2,2,scatter plot
+synth_3_3_3.csv,3,3,3,scatter plot
+synth_2_1_1.csv,2,1,1,scatter plot
+synth_5_1_5.csv,5,1,5,scatter plot
+synth_0_0_2.csv,0,0,2,table
+synth_2_1_1.csv,2,1,1,scatter plot
+synth_4_0_3.csv,4,0,3,scatter plot
+synth_1_2_5.csv,1,2,5,line chart
+synth_4_1_3.csv,4,1,3,scatter plot
+synth_0_2_1.csv,0,2,1,table
+synth_2_3_1.csv,2,3,1,histogram
+synth_2_2_0.csv,2,2,0,scatter plot
+synth_2_0_2.csv,2,0,2,scatter plot
+synth_1_1_4.csv,1,1,4,line chart
+synth_2_0_3.csv,2,0,3,scatter plot
+synth_3_3_4.csv,3,3,4,scatter plot
+synth_0_2_4.csv,0,2,4,table
+synth_2_0_4.csv,2,0,4,scatter plot
+synth_5_3_4.csv,5,3,4,scatter plot
+synth_4_0_4.csv,4,0,4,scatter plot
+synth_3_3_0.csv,3,3,0,scatter plot
+synth_0_3_1.csv,0,3,1,table
+synth_3_0_4.csv,3,0,4,scatter plot
+synth_1_0_0.csv,1,0,0,histogram
+synth_4_0_0.csv,4,0,0,scatter plot
+synth_5_3_3.csv,5,3,3,scatter plot
+players_19.csv,62,0,44,scatter plot
+synth_1_3_0.csv,1,3,0,line chart
+synth_5_3_4.csv,5,3,4,scatter plot
+synth_0_2_2.csv,0,2,2,table
+synth_3_3_2.csv,3,3,2,scatter plot
+synth_2_0_1.csv,2,0,1,scatter plot
+synth_5_0_1.csv,5,0,1,scatter plot
+synth_4_0_3.csv,4,0,3,scatter plot
+synth_5_1_2.csv,5,1,2,scatter plot
+synth_1_3_0.csv,1,3,0,line chart
+synth_4_3_1.csv,4,3,1,scatter plot
+synth_0_3_4.csv,0,3,4,table
+synth_2_3_0.csv,2,3,0,scatter plot
+synth_5_0_4.csv,5,0,4,scatter plot
+synth_3_0_2.csv,3,0,2,scatter plot
+synth_0_2_2.csv,0,2,2,table
+synth_2_0_1.csv,2,0,1,scatter plot
+synth_3_1_4.csv,3,1,4,scatter plot
+synth_3_3_0.csv,3,3,0,histogram
+synth_1_1_2.csv,1,1,2,line chart
+synth_5_0_3.csv,5,0,3,scatter plot
+synth_2_3_2.csv,2,3,2,scatter plot
+synth_1_0_0.csv,1,0,0,histogram
+synth_1_1_4.csv,1,1,4,line chart
+synth_5_2_1.csv,5,2,1,scatter plot
+synth_2_0_3.csv,2,0,3,scatter plot
+synth_3_0_3.csv,3,0,3,scatter plot
+synth_1_0_0.csv,1,0,0,histogram
+synth_4_2_3.csv,4,2,3,scatter plot
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_0_2_1.csv,0,2,1,table
+synth_4_2_2.csv,4,2,2,scatter plot
+synth_4_2_5.csv,4,2,5,scatter plot
+synth_0_2_4.csv,0,2,4,table
+synth_1_1_3.csv,1,1,3,line chart
+synth_1_3_2.csv,1,3,2,line chart
+synth_3_3_3.csv,3,3,3,scatter plot
+synth_2_1_5.csv,2,1,5,scatter plot
+synth_1_3_1.csv,1,3,1,line chart
+synth_2_0_3.csv,2,0,3,scatter plot
+synth_0_0_2.csv,0,0,2,table
+synth_2_1_0.csv,2,1,0,scatter plot
+synth_5_2_3.csv,5,2,3,scatter plot
+synth_2_0_2.csv,2,0,2,scatter plot
+synth_2_2_1.csv,2,2,1,scatter plot
+synth_5_0_4.csv,5,0,4,scatter plot
+synth_0_2_0.csv,0,2,0,table
+synth_2_3_5.csv,2,3,5,scatter plot
+synth_5_3_5.csv,5,3,5,scatter plot
+synth_2_2_1.csv,2,2,1,scatter plot
+synth_2_3_1.csv,2,3,1,scatter plot
+synth_1_0_3.csv,1,0,3,bar chart
+synth_1_2_5.csv,1,2,5,line chart
+synth_1_0_5.csv,1,0,5,bar chart
+synth_5_2_3.csv,5,2,3,scatter plot
+synth_3_1_0.csv,3,1,0,scatter plot
+synth_3_1_3.csv,3,1,3,scatter plot
+synth_4_2_1.csv,4,2,1,scatter plot
+synth_4_0_0.csv,4,0,0,scatter plot
+synth_0_0_3.csv,0,0,3,table
+synth_4_2_3.csv,4,2,3,scatter plot
+synth_0_2_1.csv,0,2,1,scatter plot
+synth_4_0_3.csv,4,0,3,scatter plot
+synth_0_3_3.csv,0,3,3,table
+synth_4_1_5.csv,4,1,5,scatter plot
+synth_0_3_4.csv,0,3,4,table
+synth_1_2_5.csv,1,2,5,line chart
+synth_4_2_4.csv,4,2,4,scatter plot
+synth_5_3_4.csv,5,3,4,scatter plot
+synth_3_3_2.csv,3,3,2,scatter plot
+synth_5_2_0.csv,5,2,0,scatter plot
+synth_3_1_2.csv,3,1,2,scatter plot
+synth_1_2_0.csv,1,2,0,line chart
+synth_2_0_4.csv,2,0,4,scatter plot
+synth_3_0_0.csv,3,0,0,scatter plot
+synth_2_1_1.csv,2,1,1,line chart
+synth_0_3_2.csv,0,3,2,table
+synth_4_1_5.csv,4,1,5,scatter plot
+synth_3_3_3.csv,3,3,3,scatter plot
+synth_3_1_5.csv,3,1,5,scatter plot
+synth_1_1_4.csv,1,1,4,line chart
+synth_3_1_3.csv,3,1,3,scatter plot
+synth_4_3_1.csv,4,3,1,scatter plot
+synth_3_2_2.csv,3,2,2,scatter plot
+synth_4_3_2.csv,4,3,2,scatter plot
+synth_0_1_4.csv,0,1,4,table
+synth_4_3_5.csv,4,3,5,scatter plot
+synth_2_0_1.csv,2,0,1,scatter plot
+synth_3_0_0.csv,3,0,0,scatter plot
+synth_5_0_2.csv,5,0,2,scatter plot
+synth_1_3_2.csv,1,3,2,line chart
+synth_3_3_3.csv,3,3,3,scatter plot
+synth_3_1_5.csv,3,1,5,scatter plot
+synth_0_3_2.csv,0,3,2,table
+synth_2_2_5.csv,2,2,5,scatter plot
+synth_5_2_2.csv,5,2,2,scatter plot
+synth_0_0_2.csv,0,0,2,table
+synth_0_0_5.csv,0,0,5,table
+synth_0_0_1.csv,0,0,1,table
+synth_5_1_0.csv,5,1,0,scatter plot
+synth_1_3_5.csv,1,3,5,line chart
+synth_1_0_1.csv,1,0,1,bar chart
+synth_2_2_4.csv,2,2,4,scatter plot
+synth_1_1_1.csv,1,1,1,line chart
+synth_4_0_3.csv,4,0,3,scatter plot
+synth_4_1_0.csv,4,1,0,scatter plot
+synth_3_2_2.csv,3,2,2,scatter plot
+synth_0_0_5.csv,0,0,5,table
+synth_3_1_1.csv,3,1,1,scatter plot
+synth_2_1_5.csv,2,1,5,scatter plot
+synth_4_3_5.csv,4,3,5,scatter plot
+synth_5_1_0.csv,5,1,0,scatter plot
+synth_4_3_3.csv,4,3,3,scatter plot
+synth_2_3_1.csv,2,3,1,scatter plot
+synth_0_0_5.csv,0,0,5,table
+synth_0_3_1.csv,0,3,1,table
+synth_0_3_0.csv,0,3,0,table
+synth_0_2_5.csv,0,2,5,table
+synth_3_3_5.csv,3,3,5,scatter plot
+synth_4_1_0.csv,4,1,0,scatter plot
+synth_2_1_0.csv,2,1,0,scatter plot
+synth_2_2_2.csv,2,2,2,scatter plot
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_3_0_0.csv,3,0,0,scatter plot
+synth_2_0_4.csv,2,0,4,scatter plot
+synth_5_2_0.csv,5,2,0,scatter plot
+synth_4_2_0.csv,4,2,0,scatter plot
+synth_2_3_0.csv,2,3,0,scatter plot
+synth_2_3_5.csv,2,3,5,scatter plot
+synth_0_2_5.csv,0,2,5,scatter plot
+synth_3_1_1.csv,3,1,1,scatter plot
+synth_5_0_3.csv,5,0,3,scatter plot
+synth_0_2_3.csv,0,2,3,table
+synth_0_1_5.csv,0,1,5,table
+synth_4_1_5.csv,4,1,5,scatter plot
+synth_2_3_3.csv,2,3,3,scatter plot
+synth_5_2_2.csv,5,2,2,scatter plot
+synth_4_0_5.csv,4,0,5,scatter plot
+synth_0_0_5.csv,0,0,5,table
+synth_5_1_4.csv,5,1,4,scatter plot
+synth_5_1_2.csv,5,1,2,scatter plot
+synth_4_1_5.csv,4,1,5,scatter plot
+synth_5_3_2.csv,5,3,2,scatter plot
+synth_4_1_4.csv,4,1,4,scatter plot
+synth_4_3_2.csv,4,3,2,scatter plot
+synth_2_1_2.csv,2,1,2,scatter plot
+synth_5_2_1.csv,5,2,1,scatter plot
+synth_3_0_2.csv,3,0,2,scatter plot
+synth_5_3_1.csv,5,3,1,scatter plot
+synth_3_2_2.csv,3,2,2,scatter plot
+synth_0_1_0.csv,0,1,0,table
+synth_1_0_5.csv,1,0,5,bar chart
+synth_5_0_0.csv,5,0,0,scatter plot
+synth_1_2_2.csv,1,2,2,line chart
+synth_0_0_4.csv,0,0,4,table
+synth_2_2_5.csv,2,2,5,scatter plot
+synth_3_3_3.csv,3,3,3,scatter plot
+synth_3_2_0.csv,3,2,0,scatter plot
+synth_3_2_2.csv,3,2,2,scatter plot
+synth_2_3_3.csv,2,3,3,scatter plot
+synth_2_3_2.csv,2,3,2,scatter plot
+synth_5_0_4.csv,5,0,4,scatter plot
+synth_4_1_2.csv,4,1,2,scatter plot
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_0_0_0.csv,0,0,0,table
+synth_4_0_4.csv,4,0,4,scatter plot
+synth_0_3_1.csv,0,3,1,table
+synth_4_1_3.csv,4,1,3,scatter plot
+synth_0_1_5.csv,0,1,5,table
+synth_4_2_3.csv,4,2,3,scatter plot
+synth_3_3_2.csv,3,3,2,scatter plot
+synth_1_2_2.csv,1,2,2,line chart
+synth_4_0_3.csv,4,0,3,scatter plot
+synth_0_0_2.csv,0,0,2,table
+synth_4_2_4.csv,4,2,4,scatter plot
+synth_4_2_4.csv,4,2,4,scatter plot
+synth_1_0_4.csv,1,0,4,bar chart
+synth_4_1_5.csv,4,1,5,scatter plot
+synth_0_1_5.csv,0,1,5,table
+synth_0_2_3.csv,0,2,3,table
+synth_1_0_5.csv,1,0,5,bar chart
+synth_4_2_0.csv,4,2,0,scatter plot
+synth_0_1_4.csv,0,1,4,table
+synth_2_2_0.csv,2,2,0,scatter plot
+synth_0_2_5.csv,0,2,5,table
+synth_0_2_4.csv,0,2,4,table
+synth_0_0_3.csv,0,0,3,table
+synth_3_0_1.csv,3,0,1,scatter plot
+synth_3_3_4.csv,3,3,4,scatter plot
+synth_0_3_4.csv,0,3,4,table
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_2_0_0.csv,2,0,0,scatter plot
+synth_1_3_1.csv,1,3,1,line chart
+synth_3_0_0.csv,3,0,0,scatter plot
+synth_5_3_0.csv,5,3,0,scatter plot
+synth_5_3_5.csv,5,3,5,scatter plot
+synth_0_1_4.csv,0,1,4,table
+synth_1_3_5.csv,1,3,5,line chart
+synth_0_2_4.csv,0,2,4,table
+synth_2_3_1.csv,2,3,1,scatter plot
+synth_4_0_1.csv,4,0,1,scatter plot
+synth_2_2_4.csv,2,2,4,scatter plot
+synth_0_3_3.csv,0,3,3,line chart
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_3_0_4.csv,3,0,4,scatter plot
+synth_5_0_4.csv,5,0,4,scatter plot
+synth_5_2_3.csv,5,2,3,scatter plot
+synth_5_0_5.csv,5,0,5,table
+synth_5_0_3.csv,5,0,3,histogram
+synth_1_3_1.csv,1,3,1,line chart
+synth_2_1_1.csv,2,1,1,scatter plot
+synth_1_0_5.csv,1,0,5,bar chart
+synth_3_0_0.csv,3,0,0,scatter plot
+synth_1_3_1.csv,1,3,1,line chart
+synth_0_3_0.csv,0,3,0,table
+synth_3_1_2.csv,3,1,2,scatter plot
+synth_3_1_2.csv,3,1,2,scatter plot
+synth_1_3_5.csv,1,3,5,line chart
+synth_3_1_5.csv,3,1,5,scatter plot
+synth_1_1_4.csv,1,1,4,line chart
+synth_0_2_0.csv,0,2,0,table
+synth_0_0_5.csv,0,0,5,table
+synth_0_1_5.csv,0,1,5,table
+synth_3_0_0.csv,3,0,0,scatter plot
+synth_0_0_0.csv,0,0,0,table
+synth_5_2_1.csv,5,2,1,scatter plot
+synth_1_3_0.csv,1,3,0,line chart
+Pokemon.csv,9,0,3,scatter plot
+synth_1_1_4.csv,1,1,4,line chart
+synth_5_1_1.csv,5,1,1,scatter plot
+synth_3_0_3.csv,3,0,3,scatter plot
+synth_0_1_4.csv,0,1,4,table
+synth_1_1_1.csv,1,1,1,line chart
+synth_3_0_4.csv,3,0,4,scatter plot
+synth_3_1_4.csv,3,1,4,scatter plot
+synth_2_3_5.csv,2,3,5,scatter plot
+synth_2_2_5.csv,2,2,5,scatter plot
+synth_5_3_2.csv,5,3,2,scatter plot
+synth_5_0_0.csv,5,0,0,scatter plot
+synth_3_3_3.csv,3,3,3,scatter plot
+synth_2_3_2.csv,2,3,2,scatter plot
+synth_3_2_2.csv,3,2,2,scatter plot
+synth_2_3_4.csv,2,3,4,scatter plot
+synth_0_1_5.csv,0,1,5,table
+school_and_country_table.csv,0,0,2,table
+synth_4_2_4.csv,4,2,4,scatter plot
+synth_4_2_0.csv,4,2,0,scatter plot
+synth_0_3_2.csv,0,3,2,table
+synth_3_3_3.csv,3,3,3,scatter plot
+synth_0_0_2.csv,0,0,2,table
+synth_4_3_5.csv,4,3,5,scatter plot
+synth_0_0_5.csv,0,0,5,table
+synth_3_1_2.csv,3,1,2,line chart
+synth_2_0_2.csv,2,0,2,scatter plot
+synth_2_1_5.csv,2,1,5,scatter plot
+synth_5_3_4.csv,5,3,4,scatter plot
+synth_2_3_5.csv,2,3,5,scatter plot
+synth_4_2_2.csv,4,2,2,scatter plot
+synth_0_1_3.csv,0,1,3,table
+synth_0_1_5.csv,0,1,5,table
+synth_1_1_1.csv,1,1,1,line chart
+synth_3_1_1.csv,3,1,1,scatter plot
+synth_5_2_0.csv,5,2,0,scatter plot
+synth_0_3_0.csv,0,3,0,table
+synth_0_1_5.csv,0,1,5,table
+synth_0_2_3.csv,0,2,3,table
+synth_0_2_4.csv,0,2,4,table
+synth_4_0_1.csv,4,0,1,scatter plot
+synth_5_3_5.csv,5,3,5,scatter plot
+synth_5_0_5.csv,5,0,5,scatter plot
+synth_4_1_1.csv,4,1,1,scatter plot
+synth_3_0_2.csv,3,0,2,scatter plot
+synth_1_0_3.csv,1,0,3,bar chart
+synth_3_0_5.csv,3,0,5,scatter plot
+synth_0_3_3.csv,0,3,3,table
+synth_4_0_2.csv,4,0,2,scatter plot
+synth_4_2_3.csv,4,2,3,bar chart
+synth_1_0_0.csv,1,0,0,histogram
+synth_3_1_4.csv,3,1,4,histogram
+synth_0_2_0.csv,0,2,0,table
+synth_0_2_1.csv,0,2,1,table
+synth_2_2_4.csv,2,2,4,scatter plot
+synth_1_3_2.csv,1,3,2,line chart
+synth_0_2_3.csv,0,2,3,table
+synth_1_2_5.csv,1,2,5,line chart
+synth_0_0_3.csv,0,0,3,table
+synth_5_3_5.csv,5,3,5,scatter plot
+synth_1_0_4.csv,1,0,4,bar chart
+synth_2_1_4.csv,2,1,4,scatter plot
+synth_3_0_0.csv,3,0,0,scatter plot
+synth_3_0_0.csv,3,0,0,scatter plot
+synth_4_1_2.csv,4,1,2,scatter plot
+synth_5_2_3.csv,5,2,3,scatter plot
+synth_3_0_3.csv,3,0,3,scatter plot
+synth_3_2_5.csv,3,2,5,scatter plot
+synth_3_0_4.csv,3,0,4,scatter plot
+synth_4_0_5.csv,4,0,5,scatter plot
+synth_0_1_0.csv,0,1,0,table
+synth_5_2_3.csv,5,2,3,scatter plot
+synth_1_3_5.csv,1,3,5,line chart
+synth_1_2_0.csv,1,2,0,line chart
+synth_0_2_0.csv,0,2,0,line chart
+synth_3_1_5.csv,3,1,5,scatter plot
+synth_3_3_5.csv,3,3,5,scatter plot
+synth_2_0_0.csv,2,0,0,scatter plot
+synth_3_2_3.csv,3,2,3,scatter plot
+synth_0_1_2.csv,0,1,2,table
+synth_1_3_1.csv,1,3,1,line chart
+synth_4_3_1.csv,4,3,1,scatter plot
+synth_2_2_0.csv,2,2,0,scatter plot
+synth_0_2_3.csv,0,2,3,table
+synth_4_1_4.csv,4,1,4,scatter plot
+synth_0_3_0.csv,0,3,0,table
+synth_1_3_1.csv,1,3,1,line chart
+synth_5_1_2.csv,5,1,2,scatter plot
+synth_0_0_5.csv,0,0,5,table
+synth_5_1_3.csv,5,1,3,scatter plot
+synth_2_3_1.csv,2,3,1,scatter plot
+synth_1_1_1.csv,1,1,1,line chart
+synth_5_3_5.csv,5,3,5,table
+synth_3_2_4.csv,3,2,4,scatter plot
+synth_4_2_0.csv,4,2,0,scatter plot
+synth_1_2_0.csv,1,2,0,line chart
+synth_1_3_3.csv,1,3,3,line chart
+synth_1_2_4.csv,1,2,4,line chart
+synth_5_2_1.csv,5,2,1,scatter plot
+synth_1_0_2.csv,1,0,2,bar chart
+synth_3_2_2.csv,3,2,2,scatter plot
+synth_0_0_1.csv,0,0,1,table
+synth_0_3_4.csv,0,3,4,table
+synth_0_0_5.csv,0,0,5,table
+synth_2_1_0.csv,2,1,0,scatter plot
+synth_2_1_5.csv,2,1,5,scatter plot
+synth_1_1_5.csv,1,1,5,line chart
+synth_2_1_2.csv,2,1,2,scatter plot
+synth_0_0_5.csv,0,0,5,table
+synth_1_3_1.csv,1,3,1,line chart
+synth_1_3_4.csv,1,3,4,line chart
+synth_0_0_2.csv,0,0,2,table
+synth_4_3_1.csv,4,3,1,scatter plot
+synth_0_0_0.csv,0,0,0,table
+synth_2_1_1.csv,2,1,1,scatter plot
+synth_0_2_0.csv,0,2,0,table
+synth_0_1_4.csv,0,1,4,table
+synth_0_2_5.csv,0,2,5,table
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_1_1_0.csv,1,1,0,line chart
+synth_3_0_2.csv,3,0,2,scatter plot
+synth_3_1_5.csv,3,1,5,scatter plot
+synth_0_2_4.csv,0,2,4,table
+synth_5_3_3.csv,5,3,3,bar chart
+synth_4_3_3.csv,4,3,3,scatter plot
+synth_0_3_2.csv,0,3,2,table
+synth_5_2_5.csv,5,2,5,scatter plot
+synth_5_0_3.csv,5,0,3,scatter plot
+synth_3_1_1.csv,3,1,1,scatter plot
+synth_5_2_5.csv,5,2,5,line chart
+synth_1_3_0.csv,1,3,0,scatter plot
+synth_4_0_2.csv,4,0,2,scatter plot
+synth_2_2_5.csv,2,2,5,scatter plot
+synth_1_3_5.csv,1,3,5,line chart
+googleplaystore_user_reviews.csv,2,0,3,scatter plot
+synth_2_0_3.csv,2,0,3,scatter plot
+synth_1_2_5.csv,1,2,5,line chart
+synth_1_1_2.csv,1,1,2,line chart
+synth_3_1_1.csv,3,1,1,scatter plot
+synth_4_3_5.csv,4,3,5,scatter plot
+synth_2_0_3.csv,2,0,3,scatter plot
+synth_0_0_1.csv,0,0,1,table
+synth_5_2_2.csv,5,2,2,scatter plot
+synth_1_0_1.csv,1,0,1,bar chart
+synth_1_0_1.csv,1,0,1,bar chart
+synth_2_3_0.csv,2,3,0,scatter plot
+synth_1_1_3.csv,1,1,3,line chart
+synth_5_0_1.csv,5,0,1,scatter plot
+synth_5_2_4.csv,5,2,4,scatter plot
+synth_4_0_2.csv,4,0,2,scatter plot
+synth_4_0_0.csv,4,0,0,scatter plot
+synth_2_2_5.csv,2,2,5,scatter plot
+synth_4_3_5.csv,4,3,5,histogram
+synth_2_2_0.csv,2,2,0,scatter plot
+synth_4_2_0.csv,4,2,0,scatter plot
+synth_2_0_2.csv,2,0,2,scatter plot
+synth_0_2_4.csv,0,2,4,table
+synth_2_2_2.csv,2,2,2,scatter plot
+synth_3_1_4.csv,3,1,4,scatter plot
+synth_3_2_0.csv,3,2,0,scatter plot
+synth_0_0_2.csv,0,0,2,table
+synth_3_3_2.csv,3,3,2,scatter plot
+synth_5_3_2.csv,5,3,2,scatter plot
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_1_1_2.csv,1,1,2,line chart
+synth_5_0_1.csv,5,0,1,scatter plot
+synth_1_3_5.csv,1,3,5,line chart
+synth_0_1_0.csv,0,1,0,histogram
+synth_3_2_1.csv,3,2,1,scatter plot
+synth_3_0_5.csv,3,0,5,scatter plot
+synth_4_3_1.csv,4,3,1,scatter plot
+synth_1_2_3.csv,1,2,3,line chart
+synth_3_1_4.csv,3,1,4,scatter plot
+synth_2_1_5.csv,2,1,5,scatter plot
+synth_4_1_4.csv,4,1,4,scatter plot
+synth_5_0_0.csv,5,0,0,scatter plot
+synth_4_0_5.csv,4,0,5,scatter plot
+synth_1_0_3.csv,1,0,3,bar chart
+synth_5_3_4.csv,5,3,4,scatter plot
+synth_0_2_0.csv,0,2,0,table
+synth_0_3_4.csv,0,3,4,table
+synth_3_2_5.csv,3,2,5,scatter plot
+synth_4_2_1.csv,4,2,1,scatter plot
+synth_4_0_3.csv,4,0,3,scatter plot
+synth_2_1_4.csv,2,1,4,scatter plot
+synth_3_0_4.csv,3,0,4,scatter plot
+synth_0_2_2.csv,0,2,2,table
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_1_3_1.csv,1,3,1,line chart
+synth_4_0_5.csv,4,0,5,scatter plot
+synth_4_2_4.csv,4,2,4,scatter plot
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_0_2_3.csv,0,2,3,table
+synth_4_0_0.csv,4,0,0,scatter plot
+synth_1_3_5.csv,1,3,5,line chart
+synth_4_1_1.csv,4,1,1,scatter plot
+synth_3_1_4.csv,3,1,4,scatter plot
+synth_2_0_3.csv,2,0,3,scatter plot
+synth_1_3_1.csv,1,3,1,line chart
+synth_2_2_4.csv,2,2,4,scatter plot
+synth_5_0_3.csv,5,0,3,scatter plot
+synth_4_0_1.csv,4,0,1,scatter plot
+synth_5_2_5.csv,5,2,5,scatter plot
+sample_superstore.csv,6,2,13,scatter plot
+synth_3_0_5.csv,3,0,5,bar chart
+synth_3_2_0.csv,3,2,0,scatter plot
+synth_0_0_5.csv,0,0,5,table
+synth_3_0_4.csv,3,0,4,scatter plot
+synth_0_1_5.csv,0,1,5,table
+synth_4_0_2.csv,4,0,2,scatter plot
+synth_5_2_2.csv,5,2,2,scatter plot
+synth_4_3_5.csv,4,3,5,scatter plot
+synth_2_3_1.csv,2,3,1,scatter plot
+synth_0_3_4.csv,0,3,4,table
+synth_4_3_4.csv,4,3,4,scatter plot
+synth_1_0_4.csv,1,0,4,bar chart
+synth_1_1_2.csv,1,1,2,line chart
+synth_5_2_3.csv,5,2,3,scatter plot
+synth_4_2_5.csv,4,2,5,scatter plot
+synth_1_3_4.csv,1,3,4,line chart
+synth_1_3_3.csv,1,3,3,line chart
+synth_1_3_1.csv,1,3,1,line chart
+synth_0_0_3.csv,0,0,3,table
+synth_4_0_5.csv,4,0,5,scatter plot
+synth_4_2_5.csv,4,2,5,scatter plot
+synth_0_1_5.csv,0,1,5,table
+synth_0_2_0.csv,0,2,0,table
+synth_0_1_1.csv,0,1,1,table
+synth_2_0_0.csv,2,0,0,scatter plot
+synth_0_1_4.csv,0,1,4,table
+synth_1_1_3.csv,1,1,3,line chart
+synth_4_3_1.csv,4,3,1,scatter plot
+synth_4_1_3.csv,4,1,3,scatter plot
+synth_2_2_4.csv,2,2,4,scatter plot
+synth_5_0_2.csv,5,0,2,scatter plot
+synth_4_1_1.csv,4,1,1,scatter plot
+synth_0_3_4.csv,0,3,4,table
+synth_0_1_0.csv,0,1,0,table
+synth_1_1_2.csv,1,1,2,line chart
+synth_0_1_0.csv,0,1,0,table
+synth_0_1_4.csv,0,1,4,table
+synth_2_2_1.csv,2,2,1,bar chart
+synth_5_2_2.csv,5,2,2,scatter plot
+synth_1_3_4.csv,1,3,4,line chart
+synth_4_3_4.csv,4,3,4,scatter plot
+synth_4_1_1.csv,4,1,1,scatter plot
+synth_3_0_3.csv,3,0,3,scatter plot
+synth_4_1_1.csv,4,1,1,line chart
+synth_0_3_4.csv,0,3,4,table
+synth_1_1_2.csv,1,1,2,line chart
+synth_0_3_2.csv,0,3,2,table
+synth_5_0_3.csv,5,0,3,scatter plot
+synth_1_0_5.csv,1,0,5,histogram
+synth_0_2_5.csv,0,2,5,table
+synth_5_2_1.csv,5,2,1,scatter plot
+synth_5_3_1.csv,5,3,1,scatter plot
+synth_0_0_0.csv,0,0,0,table
+synth_5_0_4.csv,5,0,4,table
+synth_0_3_4.csv,0,3,4,table
+synth_5_1_1.csv,5,1,1,scatter plot
+synth_4_1_2.csv,4,1,2,scatter plot
+synth_3_1_0.csv,3,1,0,scatter plot
+synth_1_1_1.csv,1,1,1,line chart
+synth_2_2_5.csv,2,2,5,scatter plot
+synth_4_3_3.csv,4,3,3,scatter plot
+synth_4_0_2.csv,4,0,2,scatter plot
+synth_5_2_0.csv,5,2,0,scatter plot
+synth_5_2_4.csv,5,2,4,scatter plot
+synth_5_0_4.csv,5,0,4,scatter plot
+synth_0_3_3.csv,0,3,3,table
+synth_3_0_1.csv,3,0,1,scatter plot
+synth_1_3_2.csv,1,3,2,line chart
+adult_census_income.csv,6,0,9,scatter plot
+synth_2_2_3.csv,2,2,3,scatter plot
+synth_4_2_1.csv,4,2,1,scatter plot
+synth_4_3_2.csv,4,3,2,scatter plot
+synth_4_2_3.csv,4,2,3,scatter plot
+synth_2_1_1.csv,2,1,1,scatter plot
+synth_5_1_1.csv,5,1,1,scatter plot
+synth_3_3_1.csv,3,3,1,scatter plot
+synth_3_1_5.csv,3,1,5,scatter plot
+synth_1_2_1.csv,1,2,1,bar chart
+synth_5_2_2.csv,5,2,2,scatter plot
+synth_3_0_3.csv,3,0,3,scatter plot
+synth_3_2_1.csv,3,2,1,scatter plot
+synth_5_3_2.csv,5,3,2,scatter plot
+synth_4_2_2.csv,4,2,2,scatter plot
+synth_3_1_1.csv,3,1,1,scatter plot
+synth_5_0_3.csv,5,0,3,scatter plot
+synth_5_0_2.csv,5,0,2,scatter plot
+synth_4_0_1.csv,4,0,1,histogram
+synth_1_2_4.csv,1,2,4,line chart
+synth_0_1_0.csv,0,1,0,table
+synth_3_3_3.csv,3,3,3,scatter plot
+synth_3_0_3.csv,3,0,3,scatter plot
+synth_1_2_1.csv,1,2,1,line chart
+synth_3_1_3.csv,3,1,3,scatter plot
+synth_4_2_3.csv,4,2,3,line chart
+synth_4_2_1.csv,4,2,1,scatter plot
+googleplaystore.csv,1,0,12,bar chart
+synth_3_2_3.csv,3,2,3,scatter plot
+synth_3_0_2.csv,3,0,2,scatter plot
+synth_0_0_4.csv,0,0,4,table
+synth_2_2_5.csv,2,2,5,scatter plot
+synth_2_0_5.csv,2,0,5,scatter plot
+synth_5_3_3.csv,5,3,3,scatter plot
+synth_4_1_3.csv,4,1,3,scatter plot
+synth_2_2_5.csv,2,2,5,scatter plot
+synth_1_2_3.csv,1,2,3,line chart
+synth_4_3_1.csv,4,3,1,histogram
+synth_0_1_4.csv,0,1,4,table
+synth_3_1_2.csv,3,1,2,scatter plot
+synth_2_3_2.csv,2,3,2,line chart
+synth_2_2_1.csv,2,2,1,scatter plot
+synth_3_1_2.csv,3,1,2,scatter plot
+synth_1_2_0.csv,1,2,0,line chart
+synth_5_3_4.csv,5,3,4,scatter plot
+synth_1_0_5.csv,1,0,5,bar chart
+synth_4_1_4.csv,4,1,4,scatter plot
+synth_0_0_5.csv,0,0,5,table
+synth_5_1_1.csv,5,1,1,scatter plot
+synth_0_2_0.csv,0,2,0,table
+synth_4_3_2.csv,4,3,2,scatter plot
+synth_3_3_0.csv,3,3,0,scatter plot
